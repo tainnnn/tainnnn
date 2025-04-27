@@ -17,6 +17,9 @@ But that doesn't mean I'm proficient in all of them. </h4>
   <img width="1" />  
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" /></a>
   <img width="1" />
+  <img width="1" />  
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="c logo" /></a>
+  <img width="1" />
 </div>
 
 ### Web Development
