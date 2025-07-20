@@ -23,7 +23,7 @@ But that doesn't mean I'm proficient in all of them. </h4>
   <img width="1" />
 </div>
 
-### Web Developmenta
+### Web Development
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" /></a>
   <img width="1" />
