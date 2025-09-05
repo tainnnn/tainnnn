@@ -53,8 +53,6 @@ But that doesn't mean I'm proficient in all of them. </h4>
   <img width="1" />
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" /></a>
   <img width="1" />
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" /></a>
-  <img width="1" />
   <a href="https://supabase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" /></a>
   <img width="1" />
 </div>
