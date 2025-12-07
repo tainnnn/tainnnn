@@ -63,19 +63,14 @@ But that doesn't mean I'm proficient in all of them. </h4>
   <img width="1" />
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo" /></a>
   <img width="1" />
-  <img width="1" />
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" /></a>
   <img width="1" />
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" /></a>
   <img width="1" />
+  <br>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=googlecloud" height="40" alt="googlecloud logo" /></a>
   <img width="1" />
-  <br>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" /></a>
-  <img width="1" />
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo" /></a>
-  <img width="1" />
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" /></a>
   <img width="1" />
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo" /></a>
   <img width="1" />
