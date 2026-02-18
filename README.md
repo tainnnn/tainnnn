@@ -21,6 +21,8 @@ But that doesn't mean I'm proficient in all of them. </h4>
   <img width="1" />
   <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo" /></a>
   <img width="1" />
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=r" height="40" alt="R logo" /></a>
+  <img width="1" />
 </div>
 
 ### Web Development
@@ -36,9 +38,9 @@ But that doesn't mean I'm proficient in all of them. </h4>
   <br>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" /></a>
   <img width="1" />
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" /></a>
-  <img width="1" />
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" /></a>
+  <img width="1" />
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" /></a>
   <img width="1" />
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" /></a>
   <img width="1" />
@@ -53,7 +55,9 @@ But that doesn't mean I'm proficient in all of them. </h4>
   <img width="1" />
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" /></a>
   <img width="1" />
-  <a href="https://supabase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" /></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" /></a>
+  <img width="1" />
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" /></a>
   <img width="1" />
 </div>
 
@@ -84,7 +88,7 @@ But that doesn't mean I'm proficient in all of them. </h4>
   <img width="1" />
   <a href="https://stackoverflow.com/users/22812061/tain" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=stackoverflow" width="36" height="36" /></a>
   <img width="1" />
-  <a href="https://www.linkedin.com/in/tain-tan-9b3800347/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="36" height="36" /></a>
+  <a href="https://www.linkedin.com/in/narabodee-srideelerd-9b3800347/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="36" height="36" /></a>
   <img width="1" />
 </p>
 
