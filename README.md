@@ -67,13 +67,11 @@ But that doesn't mean I'm proficient in all of them. </h4>
   <img width="1" />
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo" /></a>
   <img width="1" />
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" /></a>
-  <img width="1" />
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" /></a>
   <img width="1" />
-  <br>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=googlecloud" height="40" alt="googlecloud logo" /></a>
   <img width="1" />
+  <br>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" /></a>
   <img width="1" />
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo" /></a>
@@ -83,13 +81,12 @@ But that doesn't mean I'm proficient in all of them. </h4>
 </div>
 
 ### Socials
-<p align="left">
-  <a href="https://github.com/tainnnn" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="36" height="36" /></a>
-  <img width="1" />
-  <a href="https://stackoverflow.com/users/22812061/tain" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=stackoverflow" width="36" height="36" /></a>
-  <img width="1" />
-  <a href="https://www.linkedin.com/in/narabodee-srideelerd-9b3800347/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="36" height="36" /></a>
-  <img width="1" />
-</p>
+<div align="left">
+  <a href="https://github.com/tainnnn" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/22812061/tain" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/narabodee-srideelerd-9b3800347/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="40" /></a>
+</div>
 
 <h2>You can contact me tainnmail@gmail.com</h2>
