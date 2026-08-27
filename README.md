@@ -78,6 +78,8 @@ But that doesn't mean I'm proficient in all of them. </h4>
   <img width="1" />
   <a href="https://www.sketchup.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sketchup" height="40" alt="sketchup logo" /></a>
   <img width="1" />
+  <a href="https://www.netacad.com/cisco-packet-tracer" target="_blank" rel="noreferrer"><img src="https://www.c-sharpcorner.com/article/basic-configuration-of-a-cisco-switch-using-the-cisco-packet-tracer-simulator/Images/2025-08-23_12h32_45.png" height="40" alt="Cisco Packet Tracer logo" /></a>
+  <img width="1" />
 </div>
 
 ### Socials
