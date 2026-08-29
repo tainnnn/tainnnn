@@ -42,6 +42,8 @@ But that doesn't mean I'm proficient in all of them. </h4>
   <img width="1" />
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" /></a>
   <img width="1" />
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" /></a>
+  <img width="1" />
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" /></a>
   <img width="1" />
 </div>
