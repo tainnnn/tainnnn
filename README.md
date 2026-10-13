@@ -2,9 +2,7 @@ Hi there,You can call me tain
 ========================
 <h4> I'm just a little dev.
 <br>
-Some of the skills listed on my profile are things I've used before,
-<br>
-But that doesn't mean I'm proficient in all of them. </h4>
+Some of the skills listed here are tools I've used or learned in the past.</h4>
 
 
 ### Programming Languages
@@ -73,6 +71,8 @@ But that doesn't mean I'm proficient in all of them. </h4>
   <img width="1" />
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=googlecloud" height="40" alt="googlecloud logo" /></a>
   <img width="1" />
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" /></a>
+  <img width="1" />
   <br>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" /></a>
   <img width="1" />
@@ -81,6 +81,8 @@ But that doesn't mean I'm proficient in all of them. </h4>
   <a href="https://www.sketchup.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sketchup" height="40" alt="sketchup logo" /></a>
   <img width="1" />
   <a href="https://www.drawio.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS86GZetyDpJMfzdaGCmIrWlOAzGDXJxRXaPhpgzs5KRw&s" height="40" alt="draw.io" /></a>
+  <img width="1" />
+  <a href="https://www.notion.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo" /></a>
   <img width="1" />
 </div>
 
